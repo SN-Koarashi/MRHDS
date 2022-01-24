@@ -1,0 +1,14 @@
+{
+  "name": "MRHDS",
+  "version": "1.0.0",
+  "description": "Minecraft Resourcepack Hashed Directory Structure",
+  "main": "index.js",
+  "author": "5026",
+  "license": "GPLv3",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs-extra": "^10.0.0",
+    "crypto-js": "^4.1.1",
+    "path": "^0.12.7"
+  }
+}
